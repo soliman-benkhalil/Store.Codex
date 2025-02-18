@@ -123,10 +123,6 @@ A comprehensive Postman collection is included in the `/Postman` directory, cont
 dotnet test
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🎓 Acknowledgments
 
 Special thanks to Route IT Training Center for the guidance and support during the development of this project.
