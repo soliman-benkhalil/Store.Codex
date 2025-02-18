@@ -1,0 +1,6 @@
+@Store.Codex.APIs_HostAddress = http://localhost:5130
+
+GET {{Store.Codex.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
